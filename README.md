@@ -1,2 +1,27 @@
-# amazing-animals-a-z
-Amazing Animals A to Z by Brandon Hui — a coloring and learning book for ages 4+, with an A-E sample.
+# Amazing Animals A to Z
+
+**A coloring and learning book for ages 4+ by Brandon Hui.**
+
+![Amazing Animals A to Z front cover](cover-preview.png)
+
+Meet 26 animals, one for every letter of the alphabet, through coloring pages and simple animal facts. Designed for children ages 4 and up, with parents, caregivers, and educators supporting the fun.
+
+## Try the A-E sample
+
+[Download the sample PDF](Amazing-Animals-A-to-Z-Sample-A-E.pdf): Ant, Bear, Cat, Dog, and Elephant coloring pages, plus their animal facts.
+
+## About the author
+
+Brandon Hui is the author of *Amazing Animals A to Z* and an IT infrastructure leader with interests in technology, learning, and creative projects.
+
+## Paperback
+
+First edition, 2026. ISBN: **9798175703109**.
+
+[Buy the paperback on Amazon](https://www.amazon.com/dp/B0HL1LVPPR).
+
+## Copyright and sample use
+
+Copyright © 2026 Brandon Hui. All rights reserved.
+
+You may download and print the sample for personal, noncommercial use at home or in a classroom. Please share the link to this repository rather than redistributing the files. Do not resell, republish, or reuse the illustrations in other products without written permission. See [COPYRIGHT.md](COPYRIGHT.md) for details.
