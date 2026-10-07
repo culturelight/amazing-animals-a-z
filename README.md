@@ -4,7 +4,7 @@
 
 Meet 26 animals, one for every letter of the alphabet, through coloring pages and simple animal facts. Designed for children ages 4 and up, with parents, caregivers, and educators supporting the fun.
 
-**[Buy on Amazon](https://www.amazon.com/dp/B0HL1LVPPR)** · **[Preview A–E](Amazing-Animals-A-to-Z-Sample-A-E.pdf)** · **[Download the sample PDF](https://github.com/culturelight/amazing-animals-a-z/raw/refs/heads/main/Amazing-Animals-A-to-Z-Sample-A-E.pdf)**
+**[Buy on Amazon](https://www.amazon.com/dp/B0HL1LVPPR)** · **[Preview A–E](Amazing-Animals-A-to-Z-Sample-A-E.pdf)**
 
 <img src="cover-preview.png" alt="Amazing Animals A to Z front cover" width="300">
 
